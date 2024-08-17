@@ -12,7 +12,7 @@ Programming Languages: Python, Java, C/C++, HTML/CSS, JavaScript, TypeScript
 # School Projects
 Project | Description | Tools |
 --- | --- | --- |
-[AssetPlus](https://github.com/F2023-ECSE223/ecse223-group-project-p1) | Java app developed in a team of 6 to get familiar with UML, and the structure of an app. | JavaFX, SceneBuilder, Umple, Cucumber |
+[AssetPlus](https://github.com/LuisAtMcGill/AssetPlus) | Java app developed in a team of 6 to get familiar with UML, and the structure of an app. | JavaFX, SceneBuilder, Umple, Cucumber |
 <!--
 **LuisAtMcGill/LuisAtMcGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
